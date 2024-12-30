@@ -285,4 +285,17 @@ For many resources, using built-in cleanup mechanisms is recommended if possible
 This lab won't show any destroyed provisioner examples. If you need to use destroy provisioners, please see the Provisioners documentation.https://www.terraform.io/docs/provisioners/
 
 
+Congratulations!
+In this lab, you learned how to build, change, and destroy infrastructure with Terraform. You then created resource dependencies, and provisioned basic infrastructure with Terraform configuration files.
 
+Next steps/Learn more
+Be sure to check out the following resources to receive more hands-on practice with Terraform:
+
+- [Hashicorp](https://console.cloud.google.com/marketplace/browse?q=Hashicorp&utm_source=Hashicorp&utm_medium=qwiklabs&utm_campaign=Qwiklabs+to+Marketplace)
+- [Hashicorp Learn](https://learn.hashicorp.com/terraform)
+- [Terraform Community](https://www.terraform.io/community.html)
+- [Terraform Google Examples](https://github.com/GoogleCloudPlatform/terraform-google-examples)
+  
+
+Google Cloud training and certification
+...helps you make the most of Google Cloud technologies. Our classes include technical skills and best practices to help you get up to speed quickly and continue your learning journey. We offer fundamental to advanced level training, with on-demand, live, and virtual options to suit your busy schedule. Certifications help you validate and prove your skill and expertise in Google Cloud technologies.
