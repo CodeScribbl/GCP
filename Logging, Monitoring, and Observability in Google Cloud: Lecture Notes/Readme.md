@@ -1,1 +1,9 @@
-
+- 01 Introduction to Google Cloud Observability
+- 02 Monitoring critical systems
+- 03 Alerting policies
+- 04 Advanced logging and analysis
+- 05 Working with Cloud Audit Logs
+- 06 Configuring Google Cloud services for observability
+- 07 Monitoring the Google Cloud network
+- 08 Investigating application performance issues
+- 09 Optimizing the costs for Google Cloud Observability
